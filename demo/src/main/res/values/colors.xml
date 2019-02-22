@@ -1,0 +1,10 @@
+<resources>
+    <color name="green">#E91E63</color>
+    <color name="orange">#ff5500</color>
+    <color name="blue">#0000FF</color>
+    <color name="colorSplashText">#EAB1F7</color>
+    <color name="colorBackground">#E91E63</color>
+    <color name="buttonColor">#F16797</color>
+    <color name="colorTextButton">#FCF9F9</color>
+    <color name="background">#ECECE4</color>
+</resources>
